@@ -1,0 +1,21 @@
+# general libraries
+#python
+streamlit
+numpy
+pandas
+flask
+#tqdm
+# from collections import Counter
+# warnings.filterwarnings("ignore") #if you don't want to show the warnings
+
+# visualization
+seaborn
+matplotlib
+#from wordcloud import WordCloud
+#from nltk.corpus import stopwords
+#import nltk
+#nltk.download('stopwords')
+
+# outlier detection
+scipy #automatic way of computing z-score
+#from sklearn.ensemble import IsolationForest
